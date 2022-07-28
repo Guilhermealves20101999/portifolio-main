@@ -13,8 +13,8 @@ export const projects = [
     title: "Painel De administração de telefonia Voip",
     des: "O front-end do sistema conta com abas de financeiro, tarifação, relatorios, integrações com bancos digitais para geração de faturas e NFE",
     demo: "",
-    live: "https://westside-ecommerce-clone.vercel.app/",
-    gitHub: "https://github.com/mdalishanali/Westside-ecommerce-Clone",
+    live: "https://login-myapp.herokuapp.com/",
+    gitHub: "",
     technologies: [
       "HTML",
       "CSS",
@@ -23,7 +23,7 @@ export const projects = [
      
     ],
   },
-  {
+ /* {
     img: "https://github.com/sahilshekh/project-photos/blob/master/photos/purplle.png?raw=true",
     title: "Purple-Clone",
     des: "This is the clone of purple-skincare & makeup website. A web application to buy skincare and makeup products. This is solo project at Full Stack-development bootcamp in Masai School.",
@@ -40,6 +40,6 @@ export const projects = [
     live: "https://westside-ecommerce-clone.vercel.app/",
     gitHub: "https://github.com/Sayli555/credo-clone/",
     technologies: ["HTML", "CSS", "JavaScript","NodeJS","ExpressJS","MongoDB"],
-  },
+  },*/
  
 ];
