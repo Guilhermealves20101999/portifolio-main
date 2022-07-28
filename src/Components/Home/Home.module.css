@@ -203,12 +203,12 @@ body::after {
   }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 660px) {
   .profileImage {
-    width: 40vw;
-    height: 40vw;
+    width: 80vw;
+    height: 80vw;
     top: 70px;
-    right: 50%;
+    right: 80%;
     transform: translateX(50%) !important;
   }
   .profileImage img {
