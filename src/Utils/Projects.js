@@ -9,9 +9,9 @@ export const projects = [
     technologies: ["HTML", "CSS", "JavaScript", "React"],
   },
   {
-    img: "https://github.com/sahilshekh/project-photos/blob/master/photos/west-side.png?raw=true",
-    title: "Westside-ecommerce-Clone",
-    des: "This is the clone of Westside Shopping website , which is an e-commerce website of a Cloathings. This is our team collaboration project at Full Stack-development bootcamp in Masai School.",
+    img: "https://github.com/Guilhermealves20101999/portifolio-main/blob/master/public/projectImages/PainelVoip.png?raw=true",
+    title: "Painel De administração de telefonia Voip",
+    des: "O front-end do sistema conta com abas de financeiro, tarifação, relatorios, integrações com bancos digitais para geração de faturas e NFE",
     demo: "",
     live: "https://westside-ecommerce-clone.vercel.app/",
     gitHub: "https://github.com/mdalishanali/Westside-ecommerce-Clone",
@@ -19,6 +19,7 @@ export const projects = [
       "HTML",
       "CSS",
       "JavaScript",
+      "Vue",
      
     ],
   },
