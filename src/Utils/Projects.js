@@ -1,12 +1,12 @@
 export const projects = [
   {
-    img: "https://github.com/sahilshekh/project-photos/blob/master/photos/jio-mart.png?raw=true",
-    title: "JioMart Clone",
-    des: "This is the clone of JioMart website. A web application to buy Glocery and Daily-Need products. This is our team collaboration project at Full Stack-development bootcamp in Masai School.",
+    img: "https://github.com/Guilhermealves20101999/portifolio-main/blob/master/public/projectImages/leadpy.jpeg?raw=true",
+    title: "Leadpy Tecnologia",
+    des: "Sistema em Saas de Whatsapp, para empresa que deseja ter um unico numero e varios atendentes, sistema conta com boot",
     demo: "",
-    live: "https://jio-mart-clone.vercel.app/",
-    gitHub: "https://github.com/jibi966/JioMart-clone",
-    technologies: ["HTML", "CSS", "JavaScript"],
+    live: "https://leadpy.online/",
+    gitHub: "",
+    technologies: ["HTML", "CSS", "JavaScript", "React"],
   },
   {
     img: "https://github.com/sahilshekh/project-photos/blob/master/photos/west-side.png?raw=true",
