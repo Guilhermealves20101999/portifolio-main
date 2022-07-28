@@ -9,8 +9,8 @@ const About = () => {
   const [width] = WindowSize();
   const img =
     width < 650
-      ? "https://github.com/RahulGoyal03/Portfolio/blob/main/public/IMG_3379-removebg-modified_ccexpress__1_-removebg-preview.png?raw=true"
-      : "https://github.com/RahulGoyal03/Portfolio/blob/main/public/developer.gif?raw=true";
+      ? "https://github.com/Guilhermealves20101999/portifolio-main/blob/master/src/assets/my_photo.jpg?raw=true"
+      : "https://github.com/Guilhermealves20101999/portifolio-main/blob/master/public/developer.gif?raw=true";
   return (
     <div
       className={styles.container}
@@ -19,7 +19,7 @@ const About = () => {
       <div className={styles.first}>
         <img
           src={
-            "https://github.com/RahulGoyal03/Portfolio/blob/main/public/developer.gif?raw=true"
+            "https://github.com/Guilhermealves20101999/portifolio-main/blob/master/public/developer.gif?raw=true"
           }
           alt=""
         />

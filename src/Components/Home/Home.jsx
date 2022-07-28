@@ -66,7 +66,7 @@ const Home = ({ scrollRef }) => {
           }}
         >
           <h1>
-            <span>oii👋, Meu nome é </span>
+            <span>oii👋, Sou o </span>
             <div className={styles.name} style={{ color: `${newTheme.title}` }}>
               Guilherme Alves
             </div>
@@ -74,7 +74,7 @@ const Home = ({ scrollRef }) => {
           <h1>Sou Desenvolvedor Front-End.</h1>
           <div className={styles.btn}>
             <a
-              href="https://drive.google.com/u/0/uc?id=1-w2tC220iyK3SERxdfOf8a8MOl5tSeVD&export=download"
+              href="https://drive.google.com/u/2/uc?id=1aMlZo_iiqxC_Jy2x-0_N2uGklP48OBPV&export=download" 
               target="_blank"
               rel="noreferrer"
             >
