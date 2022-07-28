@@ -54,7 +54,7 @@ const Navbar = () => {
 			}}
 		>
 			<div className={styles.navbar}>
-				<a href='https://portfolio-2-blond.vercel.app/'>
+				<a href='/src/Components/Home'>
 					<div className={styles.logo}>
 						{<img
 							src='https://github.com/Guilhermealves20101999/portifolio-main/blob/master/src/assets/Logointro.png?raw=true'

@@ -41,23 +41,19 @@ function App() {
 						className='links'
 					>
 						<a onClick={handleMenu} href='#home'>
-							Home
+							Inicio
 						</a>
 						<a onClick={handleMenu} href='#about'>
-							About
+							Sobre
 						</a>
-						{/* <a onClick={handleMenu} href='#experience'>
-							Experience
-						</a> */}
-
 						<a onClick={handleMenu} href='#projects'>
-							Projects
+							Projetos
 						</a>
 						<a onClick={handleMenu} href='#techStacks'>
-							Profeciencies
+							Linguagens
 						</a>
 						<a onClick={handleMenu} href='#contact'>
-							Contact
+							Contato
 						</a>
 					</div>
 					<Navbar />

@@ -73,10 +73,10 @@ const TechStacks = () => {
 					className={styles.logoWrapper}
 				>
 					<i
-						style={{ color: '#7248B6' }}
-						className='devicon-redux-original'
+						style={{ color: '#41b883' }}
+						className='devicon-vuejs-plain'
 					/>
-					<span>Redux</span>
+					<span>Vue</span>
 				</div>
 				<div
 					style={{
@@ -91,6 +91,7 @@ const TechStacks = () => {
 					/>
 					<span>Node</span>
 				</div>
+
 				<div
 					style={{
 						color: `${newTheme.title}`,
@@ -98,18 +99,8 @@ const TechStacks = () => {
 					}}
 					className={styles.logoWrapper}
 				>
-					<i className='devicon-express-original' />
-					<span>Express</span>
-				</div>
-				<div
-					style={{
-						color: `${newTheme.title}`,
-						background: `${newTheme.linkHover}`,
-					}}
-					className={styles.logoWrapper}
-				>
-					<i className='devicon-mongodb-plain colored' />
-					<span>MongoDB</span>
+					<i className='devicon-mysql-plain colored' />
+					<span>MYSQL</span>
 				</div>
 			</div>
 		</div>
